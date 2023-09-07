@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C-blue" alt="language" />
-  <img src="https://img.shields.io/badge/Mark-111/100-green" alt="language" />
+  <img src="https://img.shields.io/badge/Mark-100/100-green" alt="language" />
 </p>
 
 # 42-Ft_printf
